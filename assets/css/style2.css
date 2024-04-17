@@ -33,6 +33,7 @@ body {
 }
 
 .navbar {
+    padding-top: 1.5rem!important;
   color: white;
   background-color: #14213D;
 }
