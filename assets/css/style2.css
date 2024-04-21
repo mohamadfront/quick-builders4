@@ -92,7 +92,7 @@ body{
 
 .carousel-item img {
   width: 100%;
-  height: 1000px;
+  height: 750px;
 }
 @media (max-width: 782px) {
   .carousel-item img {
